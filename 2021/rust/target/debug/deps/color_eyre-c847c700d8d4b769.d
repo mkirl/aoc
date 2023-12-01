@@ -1,0 +1,12 @@
+/Users/michaelkirl/aoc/2021/rust/target/debug/deps/color_eyre-c847c700d8d4b769.rmeta: /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs
+
+/Users/michaelkirl/aoc/2021/rust/target/debug/deps/color_eyre-c847c700d8d4b769.d: /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs /Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs
+
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/lib.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/config.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/fmt.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/handler.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/private.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/mod.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/section/help.rs:
+/Users/michaelkirl/.cargo/registry/src/github.com-1ecc6299db9ec823/color-eyre-0.6.2/src/writers.rs:
